@@ -1,0 +1,29 @@
+.shipping-pickup-store .content-local-pickup {
+	min-width: 50%;
+}
+
+.shipping-pickup-store .wclpp-pickup-info, 
+.shipping-pickup-store .wclpp-pickup-date {
+	display: flex;
+	justify-content: flex-end;
+	padding: 0 0 10px 0;
+	flex-direction: column;
+	align-items: flex-end;
+	font-size: 13px;
+}
+
+.shipping-pickup-store .label-address {
+	border-bottom: 1px solid rgba( 0,0,0,0.1 );
+}
+
+.shipping-pickup-store .content-address {
+	font-weight: normal;
+}
+
+.shipping-pickup-store .wclpp-pickup-date .label-date {
+	padding-bottom: 0;
+}
+
+input#pickupdate {
+	text-align: right;
+}

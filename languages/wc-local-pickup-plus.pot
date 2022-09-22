@@ -1,0 +1,233 @@
+# Copyright (C) 2022 wc-local-pickup-plus
+# This file is distributed under the same license as the wc-local-pickup-plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wc-local-pickup-plus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Alen Sirola <alen@micemade.com>\n"
+"Last-Translator: Alen Sirola <alen@micemade.com>\n"
+"Report-Msgid-Bugs-To: https://micemade.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: the link to WooCommerce site.
+#: woocommerce-local-pickup-plus.php:59
+msgid "Local Pickup Plus for WooCommerce requires WooCommerce to be installed and active. You can download %s here."
+msgstr ""
+
+#: includes/class-wclpp-admin.php:36, includes/class-wclpp-checkout.php:274
+msgid "Pickup Location"
+msgstr ""
+
+#: includes/class-wclpp-admin.php:44, includes/class-wclpp-checkout.php:275
+msgid "Pickup Date"
+msgstr ""
+
+#: includes/class-wclpp-admin.php:60, includes/class-wclpp-admin.php:77, includes/class-wclpp-admin.php:78
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:78
+msgid "Select a store location"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:105
+msgid "Address:"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:111
+msgid "Schedule a pickup date"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:173
+msgid "You must either choose a store or use other shipping method"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:177
+msgid "You must choose a pickup date"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:205, includes/class-wclpp-checkout.php:214
+msgid "Pickup Location Cost"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:220, includes/class-wclpp-checkout.php:229
+msgid "Pickup Location Discount"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:295
+msgid "Pickup Details"
+msgstr ""
+
+#: includes/class-wclpp-checkout.php:346
+msgid "Local pickup"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:32
+msgctxt "plural"
+msgid "Local Pickup Plus"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:33
+msgctxt "singular"
+msgid "Local Pickup Plus"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:34
+msgctxt "admin menu"
+msgid "Local Pickup Plus"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:35
+msgctxt "admin bar"
+msgid "Location"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:36
+msgctxt "add new"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:37
+msgid "Add New Location"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:38
+msgid "New Location"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:39
+msgid "Edit Location"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:40
+msgid "View Location"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:41
+msgid "All Locations"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:42
+msgid "Search Locations"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:43
+msgid "No Location found."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:72
+msgid "ID"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:76
+msgid "Exclude in Checkout?"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:94
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:94
+msgid "No"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:109
+msgid "Enter location title here"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:121
+msgid "Location Visibility"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:123
+msgid "Location Details"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:141
+msgid "Exclude Location in checkout."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:173
+msgid "Cost/Discount"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:216
+msgid "City"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:222
+msgid "Phone"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:228
+msgid "Address"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:286, includes/class-wclpp-post-type.php:287, includes/class-wclpp-post-type.php:289
+msgid "Location updated."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:288
+msgid "Location deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: includes/class-wclpp-post-type.php:291
+msgid "Location restored to revision from %s"
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:292
+msgid "Location published."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:293
+msgid "Location saved."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:294
+msgid "Location submitted."
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date.
+#: includes/class-wclpp-post-type.php:297
+msgid "Location scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/class-wclpp-post-type.php:300
+msgid "Location draft updated."
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:45
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:47
+msgid "Enable Local Pickup Plus"
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:51
+msgid "Title"
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:53
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:54
+msgid "Local Pickup"
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:57
+msgid "Include scheduler"
+msgstr ""
+
+#: includes/class-wclpp-shipping-method.php:59
+msgid "if date scheduler should be included and required."
+msgstr ""

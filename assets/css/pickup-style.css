@@ -1,0 +1,15 @@
+.shipping-pickup-store .content-local-pickup { min-width: 50%; }
+
+.shipping-pickup-store .wclpp-pickup-info, .shipping-pickup-store .wclpp-pickup-date { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; padding: 0 0 10px 0; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-align: end; -ms-flex-align: end; align-items: flex-end; font-size: 13px; }
+
+.shipping-pickup-store .label-address { border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+
+.shipping-pickup-store .content-address { font-weight: normal; }
+
+.shipping-pickup-store .wclpp-pickup-date .label-date { padding-bottom: 0; }
+
+input#pickupdate { text-align: right; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGlja3VwLXN0eWxlLmNzcyIsInNvdXJjZXMiOlsicGlja3VwLXN0eWxlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsQUFBQSxzQkFBc0IsQ0FBQyxxQkFBcUIsQ0FBQyxFQUM1QyxTQUFTLEVBQUUsR0FBRyxHQUNkOztBQUVELEFBQUEsc0JBQXNCLENBQUMsa0JBQWtCLEVBQ3pDLHNCQUFzQixDQUFDLGtCQUFrQixDQUFDLEVBQ3pDLE9BQU8sRUFBRSxJQUFJLEVBQ2IsZUFBZSxFQUFFLFFBQVEsRUFDekIsT0FBTyxFQUFFLFVBQVUsRUFDbkIsY0FBYyxFQUFFLE1BQU0sRUFDdEIsV0FBVyxFQUFFLFFBQVEsRUFDckIsU0FBUyxFQUFFLElBQUksR0FDZjs7QUFFRCxBQUFBLHNCQUFzQixDQUFDLGNBQWMsQ0FBQyxFQUNyQyxhQUFhLEVBQUUsR0FBRyxDQUFDLEtBQUssQ0FBQyxrQkFBaUIsR0FDMUM7O0FBRUQsQUFBQSxzQkFBc0IsQ0FBQyxnQkFBZ0IsQ0FBQyxFQUN2QyxXQUFXLEVBQUUsTUFBTSxHQUNuQjs7QUFFRCxBQUFBLHNCQUFzQixDQUFDLGtCQUFrQixDQUFDLFdBQVcsQ0FBQyxFQUNyRCxjQUFjLEVBQUUsQ0FBQyxHQUNqQjs7QUFFRCxBQUFBLEtBQUssQUFBQSxXQUFXLENBQUMsRUFDaEIsVUFBVSxFQUFFLEtBQUssR0FDakIifQ== */
+
+/*# sourceMappingURL=pickup-style.css.map */
